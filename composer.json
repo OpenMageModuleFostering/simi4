@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/simi4",
+    "type": "magento-module",
+    "license": "Simicart-License",
+    "homepage": "",
+    "description": "Simicart Application Connector",
+    "authors": [
+    {
+        "name": "H\u1ea3i T\u1ea1 Ho\u00e0ng",
+        "email": "info@magestore.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
